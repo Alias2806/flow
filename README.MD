@@ -22,3 +22,11 @@ Entries in this repo follow an approval-based workflow similar to Architecture D
 - **Proven Viable** ideas receive a stamp of approval
 - **Graduated Projects** move to a dedicated repository or organization with confidence they will be actively maintained
 - **Vice-versa if otherwise** — projects can return here if they're paused, archived, or need re-evaluation
+
+## Community Standards
+
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
+- [Security Policy](SECURITY.md)
+- [Issue Templates](.github/ISSUE_TEMPLATE/)
+- [Pull Request Template](.github/pull_request_template.md)

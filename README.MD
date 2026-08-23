@@ -9,11 +9,16 @@ This repo exists to:
 - **Store starter guides and templates** for common patterns
 - **Prototype documentation** and project structures before full commitment
 - **Reduce waste** by testing ideas here first, avoiding abandoned repositories
+- **etc.** (more will be added as the flow evolves)
 
 ## Structure
 
 Documentation and starter guides are organized by topic or project type. Each entry includes the reasoning behind decisions and lessons learned.
 
-## Why This Exists
+## Approval & Graduation
 
-Rather than creating a new repository for every experimental idea—only to abandon it if the project fails—ideas are documented here first. Once validated and proven viable, this serves as the foundation for a dedicated repository with confidence it will be maintained.
+Entries in this repo follow an approval-based workflow similar to Architecture Decision Records (ADRs):
+- **Ideas & Experiments** are documented and tested
+- **Proven Viable** ideas receive a stamp of approval
+- **Graduated Projects** move to a dedicated repository or organization with confidence they will be actively maintained
+- **Vice-versa if otherwise** — projects can return here if they're paused, archived, or need re-evaluation

@@ -11,6 +11,17 @@ assignees: ''
 
 Briefly describe what this starter template is for.
 
+See the [Documentation Lifecycle Guide](../../docs/lifecycle.md) and select the current stage below.
+
+## Lifecycle Stage
+
+- [ ] Proposed
+- [ ] Under Review
+- [ ] Approved
+- [ ] Ready for Graduation
+- [ ] Graduated
+- [ ] Paused / Archived / Rejected
+
 ## Use Cases
 
 What problems does this starter solve? When should someone use this?

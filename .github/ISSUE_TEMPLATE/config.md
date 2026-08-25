@@ -11,6 +11,17 @@ assignees: ''
 
 Describe the repository configuration or setup that needs to be done.
 
+See the [Documentation Lifecycle Guide](../../docs/lifecycle.md) and select the current stage below.
+
+## Lifecycle Stage
+
+- [ ] Proposed
+- [ ] Under Review
+- [ ] Approved
+- [ ] Ready for Graduation
+- [ ] Graduated
+- [ ] Paused / Archived / Rejected
+
 ## Checklist
 
 - [ ] Task item 1
